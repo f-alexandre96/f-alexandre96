@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Fernando Alexandre
-- 🌱 I’m currently learning Java, JavaScript, React, node.js
+- 🌱 I’m currently learning Java, Spring Boot and Database.
 - 💞️ I’m looking to collaborate in a great work enviroment.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love classic cars and retro video games.
+- ⚡ Fun fact: I love classic cars, rock music and retro video games.
 
 <!---
 f-alexandre96/f-alexandre96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
