@@ -26,6 +26,8 @@ Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![Swagger](https://img.shields.io/badge/Swagger-UI-green?logo=swagger)
+![Postman](https://img.shields.io/badge/Postman-API-orange?logo=postman)
+
 
 
 IDEs:
