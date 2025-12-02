@@ -33,8 +33,3 @@ Tools:
 IDEs:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-____
-
-## 📊 GitHub Stats
-![f-alexandre96's GitHub stats](https://github-readme-stats.vercel.app/api?username=f-alexandre96&show_icons=true&theme=tokyonight)
